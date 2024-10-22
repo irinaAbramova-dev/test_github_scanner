@@ -28,8 +28,8 @@ The server limits concurrent repository details fetching to 2 repositories at a 
 
 1. **Clone the repository**:
    ```bash
-   git clone https://github.com/your-username/github-repo-scanner.git
-   cd github-repo-scanner
+   git clone https://github.com/irinaAbramova-dev/test_github_scanner.git
+   cd test_github_scanne
    ```
 
 2. **Install dependencies**:
